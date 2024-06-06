@@ -1,3 +1,6 @@
+
+This is my first assignment and im doing well
+
 # Create a GitHub Repository
 
 In this activity, you’ll get additional practice with creating a repository via the terminal.
